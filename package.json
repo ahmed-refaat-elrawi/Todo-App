@@ -1,0 +1,17 @@
+{
+  "name": "todo-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+  "build": "vite build",
+  "deploy": "gh-pages -d dist"
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.6",
+    "vite": "^5.2.0"
+  }
+}
